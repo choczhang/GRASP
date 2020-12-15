@@ -4,6 +4,23 @@ The source code for *MAPLE: Model-Agnostic Framework for Health Status Represent
 
 Thanks for your interest in our work!
 
+## Visualization Tool
+Welcome to try the prototype of our visualization tool (AdaCare):
+
+http://47.93.42.104/215 (Cause of death: CVD)   
+http://47.93.42.104/318 (Cause of death: GI disease)   
+http://47.93.42.104/616 (Cause of death: Other)   
+http://47.93.42.104/265 (Cause of death: GI disease)    
+http://47.93.42.104/812 (Cause of death: Cachexia)   
+http://47.93.42.104/455 (Cause of death: CVD)       
+http://47.93.42.104/998 (Alive)       
+http://47.93.42.104/544 (Alive)    
+
+AdaCare can be found [here](https://github.com/Accountable-Machine-Intelligence/AdaCare), which is our another work in AAAI-2020.
+
+Welcome to test the prototype of our visualization tool. The clinical hidden status is built by our latest representation learning model ConCare.
+The internationalised multi-language support will be available soon.
+
 ## Requirements
 
 * Install python, pytorch. We use Python 3.7.3, Pytorch 1.5.0.
