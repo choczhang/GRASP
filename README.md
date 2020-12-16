@@ -1,6 +1,6 @@
-# MAPLE: Model-Agnostic Framework for Health Status Representation Learning Based on Incorporating Knowledge from Similar Patients
+# GRASP: Generic Framework for Health Status Representation Learning Based on Incorporating Knowledge from Similar Patients
 
-The source code for *MAPLE: Model-Agnostic Framework for Health Status Representation Learning Based on Incorporating Knowledge from Similar Patients*
+The source code for *GRASP: Generic Framework for Health Status Representation Learning Based on Incorporating Knowledge from Similar Patients*
 
 Thanks for your interest in our work!
 
@@ -30,6 +30,6 @@ The internationalised multi-language support will be available soon.
 The raw data for PhysioNet Dataset are open according to [here](https://journals.lww.com/ccmjournal/Fulltext/2020/02000/Early_Prediction_of_Sepsis_From_Clinical_Data__The.10.aspx)
 
 
-## Run MAPLE
+## Run GRASP
 
 All the hyper-parameters and steps are included in the `.ipynb` file, you can run it directly. 
